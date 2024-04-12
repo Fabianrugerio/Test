@@ -1,0 +1,24 @@
+body {
+  background-color: aquamarine;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.tittle {
+  font-size: 24px;
+}
+.parrafo {
+  font-size: 18px;
+}
+.imagen {
+  border-radius: 24px;
+}
+.lista {
+  font-style: italic;
+  font-size: 15px;
+  color: blueviolet;
+}
+.link {
+  font-size: 18px;
+}
